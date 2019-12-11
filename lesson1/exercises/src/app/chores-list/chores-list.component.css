@@ -1,0 +1,11 @@
+.chores {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: teal;
+}
+li{
+    font-style: italic;
+    font-size: 1em;
+}
+h3{
+    text-decoration: underline;
+}
